@@ -1,1 +1,2 @@
-# Heat-Shield-of-Re-entry-Vehicle
+# Heat Shield of Re-Entry Vehicle
+ AE 608A Computational Project
